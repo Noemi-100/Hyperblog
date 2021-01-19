@@ -4,6 +4,7 @@ Un blog increíble para el [ curso de Git y GitHub](https://platzi.com/cursos/gi
 >- Noe Urrutia
 
 <h2>En este curso vemos de todo</h2>
+
 * Todos los comandos de Git
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor 
